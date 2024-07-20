@@ -22,3 +22,16 @@ h1{
     margin-bottom: 20px;
 }
 
+input
+{
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+button
+{
+    padding: 10px 20px;
+}
