@@ -34,4 +34,17 @@ input
 button
 {
     padding: 10px 20px;
+    background-color: #ddd;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #287cd6;
+}
+
+#qr-code {
+    margin-top: 20px;
 }
