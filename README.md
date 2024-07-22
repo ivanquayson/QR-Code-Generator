@@ -1,2 +1,2 @@
 # QR-Code-Generator
- QR code generator from using HTML, CSS, and JavaScript.
+ QR code generator using HTML, CSS, and JavaScript.
